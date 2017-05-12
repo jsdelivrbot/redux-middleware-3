@@ -1,0 +1,7 @@
+{
+  "users": [
+    { "id": 1, "name": "Harry Potter", "email": "harry.potter@mom.com", "company": "Ministry of Magic" },
+    { "id": 2, "name": "Hermione Granger", "email": "harry.potter@mom.com", "company": "Ministry of Magic" },
+    { "id": 3, "name": "Ron Weasley", "email": "harry.potter@mom.com", "company": "Ministry of Magic" }
+  ]
+}
